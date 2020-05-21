@@ -1,0 +1,27 @@
+{
+    "publisher": "brunobandev",
+    "name": "psr-theme-vscode",
+    "displayName": "PSR Theme",
+    "description": "Theme based on PSR Website",
+    "version": "1.0.1",
+    "author": {
+        "name": "Bruno Bandeira",
+        "email": "brunoban.dev@gmail.com",
+        "url": "https://brunobandeira.me"
+    },
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "PSR Theme",
+                "uiTheme": "vs",
+                "path": "./themes/PSR Theme-color-theme.json"
+            }
+        ]
+    }
+}
