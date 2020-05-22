@@ -1,8 +1,11 @@
 # PSR Light Theme
 
-VSCode Light Theme based on [PHP Standards Recommendations]([https://www.php-fig.org/](https://www.php-fig.org/)).
+VSCode Light Theme based on [PHP Standards Recommendations](https://www.php-fig.org/).
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/brunobandev.psr-theme-vscode.svg)](https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode) [![Installs](https://vsmarketplacebadge.apphb.com/installs/brunobandev.psr-theme-vscode.svg)](https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/brunobandev.psr-theme-vscode.svg)](https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode) [![GitHub stars](https://img.shields.io/github/stars/brunobandev/psr-theme-vscode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/brunobandev/psr-theme-vscode)
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/brunobandev.psr-theme-vscode.svg)](https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode) 
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/brunobandev.psr-theme-vscode.svg)](https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode) 
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/brunobandev.psr-theme-vscode.svg)](https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode) 
+[![GitHub stars](https://img.shields.io/github/stars/brunobandev/psr-theme-vscode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/brunobandev/psr-theme-vscode)
 
 ## Screenshot
 
@@ -24,4 +27,4 @@ Be nice.
 
 ## Credits
 
-[PHP Standards Recommendations.]([https://www.php-fig.org/](https://www.php-fig.org/))
+[PHP Standards Recommendations.](https://www.php-fig.org)
