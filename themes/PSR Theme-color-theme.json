@@ -13,14 +13,16 @@
 		"sideBarSectionHeader.foreground": "#4cb88a",
 		"statusBar.background": "#4cb88a",
 		"statusBar.foreground": "#1a4c37",
+		"statusBar.noFolderBackground": "#4cb88a",
+		"statusBar.noFolderForeground": "#1a4c37",
 		"activityBar.background": "#1a4c37",
 		"activityBar.foreground": "#4cb88a",
 		"activityBar.border": "#4cb88a",
 		"activityBarBadge.background": "#ec8618",
 		"activityBarBadge.foreground": "#ffffff"
+
 	},
-	"tokenColors":[
-		{
+	"tokenColors": [{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -52,7 +54,7 @@
 		{
 			"name": "User-defined constant",
 			"scope": [
-				"constant.character", 
+				"constant.character",
 				"constant.other"
 			],
 			"settings": {
