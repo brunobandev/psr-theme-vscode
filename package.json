@@ -3,7 +3,7 @@
     "name": "psr-theme-vscode",
     "displayName": "PSR Theme",
     "description": "Theme based on PSR Website",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "license": "MIT",
     "author": {
         "name": "Bruno Bandeira",
@@ -36,20 +36,20 @@
         "url": "https://github.com/brunobandev/psr-theme-vscode"
     },
     "badges": [
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/version/brunobandev.psr-theme-vscode.svg",
-			"href": "https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode",
-			"description": "Extension version"
-		},
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/installs/brunobandev.psr-theme-vscode.svg",
-			"href": "https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode",
-			"description": "Extension installs"
-		},
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/rating/brunobandev.psr-theme-vscode.svg",
-			"href": "https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode",
-			"description": "Extension Rating"
-		}
-	]
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/version/brunobandev.psr-theme-vscode.svg",
+            "href": "https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode",
+            "description": "Extension version"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/installs/brunobandev.psr-theme-vscode.svg",
+            "href": "https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode",
+            "description": "Extension installs"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/rating/brunobandev.psr-theme-vscode.svg",
+            "href": "https://marketplace.visualstudio.com/items/brunobandev.psr-theme-vscode",
+            "description": "Extension Rating"
+        }
+    ]
 }
